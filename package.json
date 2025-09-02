@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Hanss0821/Type-Challenge/issues"
   },
-  "homepage": "https://github.com/Hanss0821/Type-Challenge#readme"
+  "homepage": "https://github.com/Hanss0821/Type-Challenge#readme",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
 }
